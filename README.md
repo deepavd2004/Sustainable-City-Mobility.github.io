@@ -45,3 +45,11 @@ I am passionate about technology and problem-solving. Here's a glimpse of my wor
 - SMART TRAFFIC MANAGEMENT
 - SUSTAINABLE MOBILITY
 - INFRASTRUCTURE DEVELOPMENT
+
+## PUBLIC TRANSPORT
+<img src="https://i0.wp.com/belagaviinfra.co.in/wp-content/uploads/2022/11/Picsart_22-11-09_19-24-00-500-scaled.jpg?w=1280&ssl=1" 
+     alt="Belagavi City Infrastructure" 
+     title="Belagavi City View" 
+     width="600" />
+
+
