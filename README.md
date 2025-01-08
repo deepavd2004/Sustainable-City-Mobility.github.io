@@ -39,3 +39,9 @@ I am passionate about technology and problem-solving. Here's a glimpse of my wor
 <br> 
 > “The only way to do great work is to love what you do.” – Steve Jobs
 >
+
+# MODULES IN THE SUSTAINABLE CITY MOBILITY
+- PUBLIC TRANSPORT
+- SMART TRAFFIC MANAGEMENT
+- SUSTAINABLE MOBILITY
+- INFRASTRUCTURE DEVELOPMENT
