@@ -51,5 +51,6 @@ I am passionate about technology and problem-solving. Here's a glimpse of my wor
      alt="Belagavi City Infrastructure" 
      title="Belagavi City View" 
      width="600" />
-
+###Data Structure :
+* 
 
